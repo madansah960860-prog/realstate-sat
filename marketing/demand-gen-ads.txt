@@ -1,0 +1,72 @@
+HOUSING ADS - RESTRICTED CATEGORY. Campaigns for this site must be self-identified as Housing ads in Google Ads. This disables targeting by age, gender, parental status, marital status and ZIP code, and restricts audience targeting. Reach the intended audience through content, placement and interest signals - never through demographic targeting. All copy below is a starting draft and must be reviewed against current Google Ads policy, the federal Fair Housing Act and applicable state fair housing law before running.
+
+================================================================
+GOOGLE ADS - DEMAND GEN CAMPAIGN ASSETS
+Meridian Shore Realty, LLC - second homes and seasonal residences
+Character counts shown in brackets and include spaces.
+================================================================
+
+--- BUSINESS NAME (25 characters maximum, 1 asset) ---
+Meridian Shore Realty [21]
+
+--- HEADLINES (40 characters maximum, 15 assets) ---
+Second Homes In Warm Weather States [35]
+Golf Community Homes In Florida [31]
+Waterfront Homes On The Gulf Coast [34]
+Coastal Condominiums In Florida [31]
+Gated Estate Homes In Arizona [29]
+Seasonal Residence Specialists [30]
+Licensed Brokerage In Three States [34]
+Research The Community First [28]
+Community Guides And Market Reports [35]
+Relocation And Downsizing Support [33]
+Desert Estate Lots Near Scottsdale [34]
+Texas Gulf Coast Waterfront Homes [33]
+Free Quarterly Market Reports [29]
+Talk To A Licensed Broker [25]
+Second Home Buying, Step By Step [32]
+
+--- LONG HEADLINES (90 characters maximum, 10 assets) ---
+A licensed brokerage for second homes in Florida, Texas and Arizona [67]
+Community research, property search and relocation support in one place [71]
+Golf, coastal, gated and waterfront communities researched in detail [68]
+Read the association budget before you book the flight [54]
+Free quarterly market reports with the sample sizes stated [58]
+Property taxes, insurance and fees explained before you make an offer [69]
+Waterfront and canal homes with private docks on the Texas Gulf Coast [69]
+Desert estate lots and custom homes in the McDowell foothills [61]
+A written shortlist with carrying costs, not just asking prices [63]
+Speak to a licensed broker about a seasonal residence [53]
+
+--- DESCRIPTIONS (90 characters maximum, 10 assets) ---
+Community pages with fees, climate, airport distance and county tax rates. [74]
+We read the association documents and the reserve study before you offer. [73]
+Golf, coastal condominium, gated estate and waterfront communities covered. [75]
+Coastal insurance quoted for the address before the inspection period ends. [75]
+Free market reports with closed sales, inventory and sample sizes stated. [73]
+Buyer and seller representation across Florida, Texas and Arizona. [66]
+Flat-fee relocation and downsizing coordination, priced on the website. [71]
+A consultation with a licensed broker. No charge and no obligation. [67]
+Carrying cost compared across properties, not just the asking price. [68]
+Guides on residency, property taxes, financing and seasonal ownership. [70]
+
+--- CALL TO ACTION SUGGESTIONS (Google standard set, 5 assets) ---
+Learn more
+Contact us
+Get quote
+Book now
+Subscribe
+
+--- COMPLIANCE NOTES FOR WHOEVER RUNS THESE CAMPAIGNS ---
+1. Self-identify every campaign as a Housing ad before it runs. This is not optional and it is checked.
+2. Complete Google advertiser identity verification. The verified business identity must match the legal
+   brokerage name, address, phone and email published on the website exactly.
+3. Do not build any audience on demographic signals. Use content, placement and interest signals only.
+4. No asset above refers to who a buyer is. Keep it that way when adding new assets.
+5. No asset above states a price, a rate, a commission, a fee, a tax outcome or an investment claim.
+6. Landing page relevance: point golf assets at the golf community page, waterfront assets at the
+   waterfront community page, and market report assets at the market reports index. Each community
+   detail page is built to work as a standalone ad destination.
+7. Every listing, price, licence number and testimonial on the destination site is currently placeholder
+   content. Do not run paid traffic to it until that content is replaced and verified.
+8. Have a real estate attorney and a fair housing reviewer sign off on this copy before it runs.

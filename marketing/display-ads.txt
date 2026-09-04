@@ -1,0 +1,72 @@
+HOUSING ADS - RESTRICTED CATEGORY. Campaigns for this site must be self-identified as Housing ads in Google Ads. This disables targeting by age, gender, parental status, marital status and ZIP code, and restricts audience targeting. Reach the intended audience through content, placement and interest signals - never through demographic targeting. All copy below is a starting draft and must be reviewed against current Google Ads policy, the federal Fair Housing Act and applicable state fair housing law before running.
+
+================================================================
+GOOGLE ADS - RESPONSIVE DISPLAY CAMPAIGN ASSETS
+Meridian Shore Realty, LLC - second homes and seasonal residences
+Character counts shown in brackets and include spaces.
+================================================================
+
+--- BUSINESS NAME (25 characters maximum, 1 asset) ---
+Meridian Shore Realty [21]
+
+--- SHORT HEADLINES (30 characters maximum, 15 assets) ---
+Second Homes In Florida [23]
+Golf Community Homes [20]
+Waterfront Homes In Texas [25]
+Coastal Condominiums [20]
+Gated Estate Homes [18]
+Desert Homes In Arizona [23]
+Seasonal Residences [19]
+Licensed Real Estate Broker [27]
+Community Research Guides [25]
+Free Market Reports [19]
+Relocation Support [18]
+Downsizing Coordination [23]
+Homes With Private Docks [24]
+Estate Lots In Arizona [22]
+Book A Consultation [19]
+
+--- LONG HEADLINES (90 characters maximum, 5 assets) ---
+A licensed brokerage for second homes in Florida, Texas and Arizona [67]
+Community research, property search and relocation support in one place [71]
+Fees, climate, airport distance and county tax rates on every community page [76]
+Free quarterly market reports with the sample sizes stated [58]
+Speak to a licensed broker about a seasonal residence [53]
+
+--- DESCRIPTIONS (90 characters maximum, 10 assets) ---
+Community pages with fees, climate, airport distance and county tax rates. [74]
+Golf, coastal condominium, gated estate and waterfront communities covered. [75]
+We read the association documents and the reserve study before you offer. [73]
+Coastal insurance quoted for the address before the inspection period ends. [75]
+Buyer and seller representation across Florida, Texas and Arizona. [66]
+Flat-fee relocation and downsizing coordination, priced on the website. [71]
+Free market reports with closed sales, inventory and sample sizes stated. [73]
+A consultation with a licensed broker. No charge and no obligation. [67]
+Guides on residency, property taxes, financing and seasonal ownership. [70]
+Carrying cost compared across properties, not just the asking price. [68]
+
+--- CALL TO ACTION SUGGESTIONS (5 assets) ---
+Learn more
+Contact us
+Get quote
+Sign up
+See more
+
+--- IMAGE AND PLACEMENT NOTES ---
+1. Use photographs of property, architecture and landscape only. Exteriors at golden hour, interiors with
+   natural light, coastline, golf landscape, palm-lined streets. Consistent 3:2 crops.
+2. Do not use images of people. Imagery that signals a preferred demographic is a fair housing problem
+   even when the ad copy is compliant.
+3. No text overlay claims on images. No price, rate, fee or urgency graphics. No countdown creative.
+4. Every image must be licensed for commercial use, with the licence on file before the campaign runs.
+
+--- COMPLIANCE NOTES FOR WHOEVER RUNS THESE CAMPAIGNS ---
+1. Self-identify every campaign as a Housing ad before it runs. This disables age, gender, parental
+   status, marital status and ZIP code targeting and limits audience targeting.
+2. Complete Google advertiser identity verification. The verified business identity must match the legal
+   brokerage name, address, phone and email published on the website exactly.
+3. Exclude placements that would associate housing ads with demographic targeting by proxy.
+4. Landing page relevance: whatever an ad promises must appear prominently on the page it lands on.
+5. Every listing, price, licence number and testimonial on the destination site is currently placeholder
+   content. Do not run paid traffic to it until that content is replaced and verified.
+6. Have a real estate attorney and a fair housing reviewer sign off on this copy before it runs.
